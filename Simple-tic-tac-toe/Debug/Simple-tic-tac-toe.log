@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Documents\University\2nd_course\semester_1\Introduction_to_programming\simple_tic_tac_toe\Simple-tic-tac-toe\Simple-tic-tac-toe\main.cpp(122,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\University\2nd_course\semester_1\Introduction_to_programming\simple_tic_tac_toe\Simple-tic-tac-toe\Simple-tic-tac-toe\main.cpp(214,6): warning C4101: 'y': unreferenced local variable
+D:\Documents\University\2nd_course\semester_1\Introduction_to_programming\simple_tic_tac_toe\Simple-tic-tac-toe\Simple-tic-tac-toe\main.cpp(213,6): warning C4101: 'x': unreferenced local variable
+  Simple-tic-tac-toe.vcxproj -> D:\Documents\University\2nd_course\semester_1\Introduction_to_programming\simple_tic_tac_toe\Simple-tic-tac-toe\Debug\Simple-tic-tac-toe.exe
